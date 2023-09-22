@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(230, 105, 105);
+}
+    
+#t1{
+    color: rgb(33, 1, 63);
+}
+#t2{
+    color: rgb(93, 16, 138);
+}
+#t3{
+    color: rgb(59, 30, 163);
+}
+#t4{
+    color: rgb(3, 82, 82);
+}
+
+.fundo{
+    background-color: rgb(146, 40, 40);
+}
+p{
+    color: rgb(104, 102, 7);
+}
+#caixa{
+    background-color: rgb(97, 4, 4);
+    padding-top: 20px;
+    padding: 100px;
+    border: 2px color rgb(146, 17, 17) solid;
+    margin: 10px;
+}
